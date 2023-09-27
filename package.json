@@ -1,0 +1,13 @@
+{
+ "name": "testing-compiler",
+ "version": "1.0.0",
+ "description": "testing",
+ "main": "index.js",
+ "keywords": [],
+ "author": "",
+ "scripts": {},
+ "license": "",
+ "dependencies": {
+  "nearley": "^2.20.1"
+ }
+}
